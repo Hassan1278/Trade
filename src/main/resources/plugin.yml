@@ -1,0 +1,8 @@
+name: tradingcommand
+version: 1.0
+main: org.hassan.trade.Main
+api-version: '1.16'
+commands:
+    trade:
+      description: Command für das traden mit anderen Spielern.
+      usage: /trade <request:accept:deny> <playername>
